@@ -1,8 +1,6 @@
 This is a [Next.js](https://nextjs.org) Project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).. 
 The project is done to get expert in Shadcn UI, tailwind css and nextjs components
 
-The original author is different.
-
 For more amazing repos and my info, follow my github account and follow me on linkedin OR instagram.
 
 Socials: [Linkedin] https://www.linkedin.com/in/rpranjan11/ [Instagram] https://www.instagram.com/try.ambakam/
@@ -41,10 +39,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
-
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
